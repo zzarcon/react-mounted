@@ -1,0 +1,1 @@
+export {MountedComponent} from './mounted'
